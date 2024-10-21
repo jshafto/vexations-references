@@ -1,7 +1,32 @@
 <template>
-  <div class="table-wrapper" @keyup.esc="closeModal">
+  <div class="table-wrapper" @keyup.esc="closeModal" id="top">
     <table class="full-table">
       <thead>
+        <tr class="page-title">
+          <th colspan="7">
+            <div class="h1">
+              The text is a tissue of quotations drawn from the innumerable
+              centres of culture<sup>1</sup>:
+            </div>
+            <div class="h2">
+              A guide to the references in Annelyse Gelman's <i>Vexations</i>
+            </div>
+            <a
+              class="attribution"
+              href="https://annelysegelman.com/pdf/barthes-deathoftheauthor.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              1. Roland Barthes, <i>The Death of the Author </i>
+              <ExternalLink purple />
+            </a>
+
+            <nuxt-link class="jump" :to="anchorDestination" external>
+              Jump to additional references below
+            </nuxt-link>
+          </th>
+        </tr>
+
         <tr>
           <th class="headers"></th>
           <th
@@ -30,14 +55,20 @@
           </td>
           <td v-for="col in headers" :key="col" class="table-cell cols">
             <span v-if="col === 'Referenced'">
-              <a v-if="row.Link && row[col]" :href="row.Link" target="_blank">
+              <a
+                v-if="row.Link && row[col]"
+                :href="row.Link"
+                target="_blank"
+                rel="noopener noreferrer"
+                @click.stop
+              >
                 {{ row[col] }}
                 <ExternalLink />
               </a>
               <span v-else-if="!row.Link">
                 {{ row[col] }}
               </span>
-              <a v-else :href="row.Link" target="_blank">
+              <a v-else :href="row.Link" target="_blank" @click.stop>
                 <span class="see-more">(See more)</span> <ExternalLink
               /></a>
             </span>
@@ -70,7 +101,7 @@
 </template>
 
 <script setup>
-import citations from "~/vexations.js";
+import citations from "~/public/citations.js";
 import ExternalLink from "./ExternalLink.vue";
 import PaperclipIcon from "./PaperclipIcon.vue";
 import DetailModal from "./DetailModal.vue";
@@ -92,6 +123,7 @@ const openModal = (row) => {
       modalref.value.focus();
     });
   }
+  document.body.classList.add("noscroll");
 };
 
 const closeModal = () => {
@@ -99,6 +131,7 @@ const closeModal = () => {
   picture.value = "";
   author.value = "";
   source.value = "";
+  document.body.classList.remove("noscroll");
 };
 
 const hasContent = (row) => {
@@ -113,9 +146,67 @@ const headers = Object.keys(citations[0]).filter(
     item !== "Link" &&
     item !== ""
 );
+
+const anchorDestination = import.meta.env.PROD
+  ? {
+      path: "https://annelysegelman.com/vexations-references/",
+      hash: "#additional",
+    }
+  : { name: "home", hash: "#additional" };
 </script>
 
 <style scoped>
+.page-title {
+  height: 210px;
+  width: 100%;
+}
+
+.page-title .h1 {
+  padding: 16px 16px 16px 50px;
+  font-size: 20px;
+  font-weight: normal;
+  margin: 0px;
+  width: calc(100vw - 100px);
+  position: sticky;
+  color: #823061;
+  left: 2px;
+}
+
+.page-title .h2 {
+  padding-left: 50px;
+  font-size: 24px;
+  font-weight: normal;
+  margin-bottom: 20px;
+  width: calc(100vw - 100px);
+  position: sticky;
+  left: 2px;
+}
+
+.page-title .attribution {
+  padding-left: 50px;
+  font-weight: normal;
+  width: calc(100vw - 100px);
+  position: sticky;
+  left: 2px;
+  color: #823061;
+  text-decoration-color: transparent;
+  transition: text-decoration-color 150ms ease;
+  display: block;
+}
+.page-title .attribution:hover {
+  text-decoration-color: #823061;
+}
+.jump {
+  margin-top: 6px;
+  padding-left: 50px;
+  font-weight: normal;
+  width: calc(100vw - 100px);
+  position: sticky;
+  left: 2px;
+  display: block;
+  font-style: italic;
+}
+
 a {
   text-decoration-color: transparent;
   transition: text-decoration-color 150ms ease;
@@ -145,17 +236,16 @@ a:hover {
 .headers {
   background: white;
   position: sticky;
-  top: 2px;
+  top: 0px;
   padding-top: 10px;
   padding-bottom: 10px;
-  transform: translateY(-3px);
   border: none;
   border-spacing: 0;
   height: 44px;
 }
 
 .table-wrapper {
-  max-height: calc(100vh - 60px);
+  max-height: 100dvh;
   overflow: auto;
 }
 
@@ -171,7 +261,7 @@ a:hover {
 .hover-el {
   position: absolute;
   top: 0;
-  height: 100vh;
+  height: 100dvh;
   width: 100vw;
   background-color: #00000088;
   display: flex;
@@ -195,10 +285,10 @@ a:hover {
 .header-divider {
   background-color: black;
   height: 1px;
-  padding: 0px;
+  padding: 0;
+  margin: 0;
   position: sticky;
-  top: 69px;
-  transform: translateY(-6px);
+  top: 64px;
 }
 
 .headers {
@@ -208,6 +298,10 @@ a:hover {
 .paperclip {
   padding-left: 10px;
   padding-right: 10px;
+}
+
+.back-top {
+  position: absolute;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -222,6 +316,15 @@ a:hover {
   }
   .header-divider {
     background-color: rgb(190, 190, 190);
+  }
+  .page-title .h1 {
+    color: #d793bc;
+  }
+  .page-title .attribution {
+    color: #d793bc;
+  }
+  .page-title .attribution:hover {
+    text-decoration-color: #d793bc;
   }
 }
 </style>
