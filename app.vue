@@ -1,11 +1,23 @@
 <template>
   <div>
-    <div class="page-title">
-      <h1>Vexations References</h1>
-    </div>
     <CitationTable />
+    <AdditionalReferences />
   </div>
 </template>
+
+<script setup>
+useSeoMeta({
+  title: "Works Referenced In Annelyse Gelman's Vexations",
+  ogTitle: "Works Referenced In Annelyse Gelman's Vexations",
+  description:
+    "The text is a tissue of quotations drawn from the innumerable centres of culture: A guide to Annelyse Gelman's Vexations",
+  ogDescription:
+    "The text is a tissue of quotations drawn from the innumerable centres of culture: A guide to Annelyse Gelman's Vexations",
+  ogImage: "https://annelysegelman.com/images/vexations-web-covers.jpg",
+});
+
+defineOptions({ name: "home" });
+</script>
 
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&display=swap");
@@ -24,15 +36,35 @@ button {
   margin: 0;
 }
 
-.page-title {
-  height: 60px;
-  width: 100%;
+body.noscroll {
+  overflow: hidden;
 }
 
-.page-title h1 {
-  padding: 16px;
-  font-size: 24px;
-  font-weight: normal;
-  margin: 0px;
+table::-webkit-scrollbar {
+  background-color: #000;
+  width: 8px;
+}
+
+/* background of the scrollbar except button or resizer */
+table::-webkit-scrollbar-track {
+  background-color: #000;
+}
+
+/* scrollbar itself */
+table::-webkit-scrollbar-thumb {
+  background-color: #000;
+  border-radius: 16px;
+  border: 4px solid #fff;
+}
+
+.modal-contents::-webkit-scrollbar-thumb {
+  background-color: #000;
+  border-radius: 16px;
+  border: 4px solid #fff;
+}
+
+/* set button(top and bottom of the scrollbar) */
+table::-webkit-scrollbar-button {
+  display: none;
 }
 </style>

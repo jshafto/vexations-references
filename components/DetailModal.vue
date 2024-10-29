@@ -6,7 +6,12 @@
       </button>
     </div>
     <div class="modal-text" v-html="props.modalContent"></div>
-    <img :src="`/media/${props.picture}`" alt="" class="media" />
+    <img
+      v-if="props.picture"
+      :src="`${prefixString}${props.picture}`"
+      :alt="props.picture"
+      class="media"
+    />
     <div class="author" v-if="props.author">— {{ author }}</div>
     <div class="source" v-if="props.source">{{ source }}</div>
   </div>
@@ -26,6 +31,10 @@ const props = defineProps({
 });
 
 const emits = defineEmits(["close"]);
+
+const prefixString = import.meta.env.PROD
+  ? "/vexations-references/media/"
+  : "/media/";
 </script>
 
 <style scoped>
@@ -72,8 +81,9 @@ const emits = defineEmits(["close"]);
 
 .media {
   max-width: 100%;
-  max-height: 60vh;
+  max-height: 60dvh;
   margin-bottom: 16px;
+  align-self: center;
 }
 
 .modal-text {

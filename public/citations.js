@@ -8,7 +8,7 @@ const citations = [
         "Year": "5th/4th c. BCE",
         "Link": "https://www.britannica.com/topic/Air-Waters-and-Places",
         "File": "",
-        "Hover element": "\"In the book Airs, Waters, and Places, thought to have been written by Greek physician Hippocrates in the 5th or 4th century bce, the first systematic attempt was made to set forth a causal relationship between human diseases and the environment.\" (Britannica)",
+        "Hover element": "Encyclop\u00e6dia Britannica: \"In the book Airs, Waters, and Places, thought to have been written by Greek physician Hippocrates in the 5th or 4th century bce, the first systematic attempt was made to set forth a causal relationship between human diseases and the environment.\"",
         "id": 0
     },
     {
@@ -20,7 +20,7 @@ const citations = [
         "Year": "17th c.",
         "Link": "https://en.wikipedia.org/wiki/Plague_doctor_costume",
         "File": "",
-        "Hover element": "\"The clothing worn by plague doctors was intended to protect them from airborne diseases during outbreaks of bubonic plague in Europe.\" (Wikipedia)",
+        "Hover element": "",
         "id": 1
     },
     {
@@ -32,7 +32,7 @@ const citations = [
         "Year": "",
         "Link": "https://arboretum.harvard.edu/stories/wake-up-and-smell-the-ginkgos/",
         "File": "",
-        "Hover element": "",
+        "Hover element": "\"The existence of three reports of omnivorous members of the Carnivora consuming whole ginkgo seeds suggests that the rancid smelling sarcotesta may be attracting primarily nocturnal scavengers by mimicking the smell of rotting flesh\u2014in essence acting as a carrion-mimic (Del Tredici et al. 1992).\"",
         "id": 2
     },
     {
@@ -44,7 +44,7 @@ const citations = [
         "Year": "2016",
         "Link": "https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer",
         "File": "",
-        "Hover element": "",
+        "Hover element": "<p>Senses, reflexes and learning mechanisms \u2013 this is what we start with, and it is quite a lot, when you think about it. If we lacked any of these capabilities at birth, we would probably have trouble surviving.</p>\n<p>&nbsp;</p>\n<p>But here is what we are <i>not</i> born with: <i>information, data, rules, software, knowledge, lexicons, representations, algorithms, programs, models, memories, images, processors, subroutines, encoders, decoders, symbols, or buffers</i> \u2013 design elements that allow digital computers to behave somewhat intelligently. Not only are we not <i>born</i> with such things, we also don\u2019t <i>develop</i> them \u2013 ever.</p>\n<p>&nbsp;</p>\n<p>We don\u2019t <i>store</i> words or the rules that tell us how to manipulate them. We don\u2019t create <i>representations</i> of visual stimuli, <i>store</i> them in a short-term memory buffer, and then <i>transfer</i> the representation into a long-term memory device. We don\u2019t <i>retrieve</i> information or images or words from memory registers. Computers do all of these things, but organisms do not.</p>",
         "id": 3
     },
     {
@@ -78,7 +78,7 @@ const citations = [
         "Referenced": "In Search of Lost Time, Vol. II",
         "Author": "Marcel Proust",
         "Year": "1913-1927",
-        "Link": "https://www.google.com/books/edition/Remembrance_of_Things_Past_Volume_I/CaxA8Uat1XUC?hl=en&gbpv=1&dq=%22I+gazed+at+Albertine%E2%80%99s+cheeks+as+she+spoke,+and+asked+myself+what+might+be+the+perfume,+the+taste+of+them:+that+day+she+was+not+fresh+and+cool+but+smooth,+with+a+uniform+pinkness,+violet-tinted,+creamy,+like+certain+roses+whose+petals+have+a+waxy+gloss.+I+felt+a+passionate+longing+for+them+such+as+one+feels+sometimes+for+a+particular+flower.+%E2%80%9CI+hadn%E2%80%99t+noticed+it,%E2%80%9D+was+all+that+I+said.%22&pg=PA949&printsec=frontcover",
+        "Link": "",
         "File": "",
         "Hover element": "\"I gazed at Albertine\u2019s cheeks as she spoke, and asked myself what might be the perfume, the taste of them: that day she was not fresh and cool but smooth, with a uniform pinkness, violet-tinted, creamy, like certain roses whose petals have a waxy gloss. I felt a passionate longing for them such as one feels sometimes for a particular flower. 'I hadn\u2019t noticed it,' was all that I said.\"",
         "id": 6
@@ -90,7 +90,7 @@ const citations = [
         "Referenced": "White Noise",
         "Author": "Don DeLillo",
         "Year": "1984",
-        "Link": "https://www.google.com/books/edition/White_Noise/rKFyI6Jy0OkC?hl=en&gbpv=1&bsq=creamy",
+        "Link": "",
         "File": "",
         "Hover element": "\"But this was not history we were witnessing. It was some secret festering thing, some dreamed emotion that accompanies the dreamer out of sleep. Flares came swooning from the helicopters, creamy bursts of red and white light. Drivers sounded their horns and children crowded all the windows, faces tilted, pink hands pressed against the glass.\"",
         "id": 7
@@ -102,7 +102,7 @@ const citations = [
         "Referenced": "Cool Memories II",
         "Author": "Jean Baudrillard",
         "Year": "1987-1990",
-        "Link": "https://monoskop.org/images/a/a7/Baudrillard_Jean_Cool_Memories_II_1996.pdf",
+        "Link": "",
         "File": "",
         "Hover element": "\"Showing on five monitors at once are the Lake Placid Olympics, the mirages of the Sahara, the gentle madness of the suburbs, the ecstatic techniques of body-building. Cosy ambience, subdued lighting. The people sink into the creamy sweetness of the non-stop telespectral, a sweetness as creamy as the prayer between two flights in an airport chapel.\"",
         "id": 8
@@ -152,7 +152,7 @@ const citations = [
         "Year": "2019",
         "Link": "https://www.youtube.com/watch?v=ZN9XXgketGk",
         "File": "",
-        "Hover element": "This line references my song (\"To save the drowning dog, you wrap a rope around its neck / To save the drowning dog, you kill it\"), which itself references Brigit Pegeen Kelly's poem \"Song\" (\"Listen: there was a goat\u2019s head hanging by ropes in a tree\").",
+        "Hover element": "This line references my song \"Does It Make You Feel Alive to Sing?\" (\"To save the drowning dog, you wrap a rope around its neck / To save the drowning dog, you kill it\"), which itself references\u2014and samples\u2014Brigit Pegeen Kelly's poem \"Song\" (\"Listen: there was a goat\u2019s head hanging by ropes in a tree\").",
         "id": 12
     },
     {
@@ -164,7 +164,7 @@ const citations = [
         "Year": "2009-present",
         "Link": "https://photorequestsfromsolitary.org/",
         "File": "",
-        "Hover element": "\"Heres what I would like to see in my photo: a nice summer day, Blue sky with lots of sun shining down on trees, grass, flower and perhaps small animals such as birds etc. That is what I'd like to see, Being in solitary confinement with no window or any view of the outside world, I tend to forget what if looks like. Whats funny is that right now its summer time, Yet, I feel as if I\u2019m still waiting for summer since this place obstructs the sun from shining through, Everyday seems like a gray gloomy day. So a picture with the scene I described will be appreciated.\" - Request #80, for John (California)",
+        "Hover element": "Request #80, for John (California), from the Photo Requests from Solitary project: \"Heres what I would like to see in my photo: a nice summer day, Blue sky with lots of sun shining down on trees, grass, flower and perhaps small animals such as birds etc. That is what I'd like to see, Being in solitary confinement with no window or any view of the outside world, I tend to forget what if looks like. Whats funny is that right now its summer time, Yet, I feel as if I\u2019m still waiting for summer since this place obstructs the sun from shining through, Everyday seems like a gray gloomy day. So a picture with the scene I described will be appreciated.\" ",
         "id": 13
     },
     {
@@ -200,7 +200,7 @@ const citations = [
         "Year": "",
         "Link": "https://www.youtube.com/watch?v=zSif77IVQdY",
         "File": "",
-        "Hover element": "As I went down in the valley to pray,<br>\nStudying about that good old way,<br>\nWhen you shall wear the starry crown,<br>\nGood Lord, show me the way.<br>\nO mourner, let's go down, let's go down, let's go down,<br>\nO mourner, let's go down,<br>\nDown in the valley to pray<br>",
+        "Hover element": "As I went down to the river to pray,<br>\nStudying about that good old way,<br>\nWhen you shall wear the starry crown,<br>\nGood Lord, show me the way.<br>\nO mourner, let's go down, let's go down, let's go down,<br>\nO mourner, let's go down,<br>\nDown to the river to pray<br>",
         "id": 16
     },
     {
@@ -210,7 +210,7 @@ const citations = [
         "Referenced": "Mimosa pudica",
         "Author": "",
         "Year": "",
-        "Link": "https://www.nybg.org/poetic-botany/mimosa/",
+        "Link": "https://en.wikipedia.org/wiki/Mimosa_pudica",
         "File": "",
         "Hover element": "",
         "id": 17
@@ -260,7 +260,7 @@ const citations = [
         "Year": "",
         "Link": "https://en.wikipedia.org/wiki/Chroma_key",
         "File": "",
-        "Hover element": "\"Chroma key compositing, or chroma keying, is a visual-effects and post-production technique for compositing (layering) two or more images or video streams together based on colour hues (chroma range).\"",
+        "Hover element": "",
         "id": 21
     },
     {
@@ -295,7 +295,7 @@ const citations = [
         "Author": "Nintendo",
         "Year": "2000",
         "Link": "",
-        "File": "zelda.png",
+        "File": "zelda.jpg",
         "Hover element": "",
         "id": 24
     },
@@ -356,14 +356,14 @@ const citations = [
         "Year": "",
         "Link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/UnspokenPlanGuarantee",
         "File": "",
-        "Hover element": "\"The chances of The Plan succeeding are inversely proportional to how much of the plan the audience knows about beforehand.\" -TV Tropes",
+        "Hover element": "TV Tropes: \"The chances of The Plan succeeding are inversely proportional to how much of the plan the audience knows about beforehand.\"",
         "id": 29
     },
     {
         "Page": "11",
         "Stanza": "4",
         "Line from <i>Vexations</i>": "Like that woman who couldn\u2019t pour a cup of tea<br>Because it was<i> frozen, like a glacier</i>",
-        "Referenced": "Selective Disturbance of Movement Vision after Bilateral Brain Damage \u2014\u00a0Brain (1983), 106,313-340",
+        "Referenced": "Selective Disturbance of Movement Vision after Bilateral Brain Damage",
         "Author": "J. Zihl, D. Von Cramon, and N. Mai ",
         "Year": "1983",
         "Link": "https://pubmed.ncbi.nlm.nih.gov/6850272/",
@@ -427,7 +427,7 @@ const citations = [
         "Author": "",
         "Year": "",
         "Link": "",
-        "File": "solarcleano.png",
+        "File": "solarcleano.jpg",
         "Hover element": "",
         "id": 35
     },
@@ -438,9 +438,9 @@ const citations = [
         "Referenced": "\"Streamers\"",
         "Author": "",
         "Year": "",
-        "Link": "",
+        "Link": "https://www.aav.org/blogpost/1525799/492796/Solar-Energy-Production-s-Toll-on-Wild-Birds",
         "File": "",
-        "Hover element": "\u201cOpened in 2014, the largest solar power plant in the world, Ivanpah Solar Plant, located in the Mojave Desert in California, is believed to be responsible for at least 6,000 bird deaths each year, as the birds can suffer severe burns or become incinerated if they fly too close to the 40-foot towers that concentrate sunlight from five square miles of solar panels. These numbers are likely an underestimation, as the sight of birds and insects rapidly immolated as they soar too close to the towers, which can reach temperatures of 1000 degrees Fahrenheit, is so common that staff at the plant have a name for them; \u201cstreamers\u201d.\u201d\n<br>\u2014 Association of Avian Veterans",
+        "Hover element": "",
         "id": 36
     },
     {
@@ -464,7 +464,7 @@ const citations = [
         "Year": "1943",
         "Link": "https://en.wikipedia.org/wiki/The_Little_Prince",
         "File": "tame-me.jpg",
-        "Hover element": "\"The Trump administration has set up at least three \u201ctender age\u201d shelters to detain babies and other young children who have been forcibly separated from their parents at the U.S.-Mexico border, The Associated Press has learned. Doctors and lawyers who have visited the shelters in South Texas\u2019 Rio Grande Valley said the facilities were fine, clean and safe, but the children \u2014 who have no idea where their parents are \u2014 were hysterical, crying and acting out. Many of them are under age 5, and some are so young they have not yet learned to talk.\"",
+        "Hover element": "\"Just that,\" said the fox. \"To me, you are still nothing more than a little boy who is just like a hundred thousand other little boys. And I have no need of you. And you, on your part, have no need of me. To you, I am nothing more than a fox like a hundred thousand other foxes. But if you tame me, then we shall need each other. To me, you will be unique in all the world. To you, I shall be unique in all the world . . .\" ",
         "id": 38
     },
     {
@@ -474,9 +474,9 @@ const citations = [
         "Referenced": "\"Love Hunter II\" ",
         "Author": "Michael Cheval",
         "Year": "2015",
-        "Link": "https://www.fascinationstart.com/artwork/sku28198",
+        "Link": "",
         "File": "cheval-hunter.jpg",
-        "Hover element": "I saw this painting hanging in the offices of the psychiatry service Psych Dimensions in Austin, TX. There was also an aquarium in the room. <br><br>Michael Cheval's statement on <i>Love Hunter II</i>: \"Love is not just roses, sighing in the moonlight and gentle words. Love is a real war. A man and a woman hunt for each other. And someone in the war wins and someone loses. It is very important that a loser doesn\u2019t realize that he had lost. On this hunt, as in a war, all expedients are good. To hunt down, and gently entice a win. This lady-hunter has a beautiful weapon. Delicate lute imperceptibly turns into the [crossbow]. Rabbits popping out of her satin skirt\u2014it is what she is complete\u2014they symbolize her desire.\"",
+        "Hover element": "A print of this painting was displayed in the lobby of the psychiatry service Psych Dimensions in Austin, TX in 2019. There was also an aquarium in the lobby. <br><br>Michael Cheval's statement on <i>Love Hunter II</i>: \"Love is not just roses, sighing in the moonlight and gentle words. Love is a real war. A man and a woman hunt for each other. And someone in the war wins and someone loses. It is very important that a loser doesn\u2019t realize that he had lost. On this hunt, as in a war, all expedients are good. To hunt down, and gently entice a win. This lady-hunter has a beautiful weapon. Delicate lute imperceptibly turns into the [crossbow]. Rabbits popping out of her satin skirt\u2014it is what she is complete\u2014they symbolize her desire.\"",
         "id": 39
     },
     {
@@ -510,7 +510,7 @@ const citations = [
         "Referenced": "1984",
         "Author": "George Orwell",
         "Year": "1949",
-        "Link": "https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Orwell-1949%201984.pdf",
+        "Link": "",
         "File": "",
         "Hover element": "\"There will be no loyalty, except loyalty towards the Party. There will be no love, except the love of Big Brother. There will be no laughter, except the laugh of triumph over a defeated enemy. There will be no art, no literature, no science. When we are omnipotent we shall have no more need of science. There will be no distinction between beauty and ugliness. There will be no curiosity, no enjoyment of the process of life. All competing pleasures will be destroyed. But always\u2014do not forget this, Winston\u2014always there will be the intoxication of power, constantly increasing and constantly growing subtler. Always, at every moment, there will be the thrill of victory, the sensation of trampling on an enemy who is helpless. If you want a picture of the future, imagine a boot stamping on a human face\u2014for ever.\"",
         "id": 42
@@ -560,19 +560,19 @@ const citations = [
         "Year": "1912",
         "Link": "http://web.csulb.edu/~jvancamp/361_r9.html",
         "File": "",
-        "Hover element": "\"A short illustration will explain what is meant by 'Psychical Distance.' Imagine a fog at sea; for most people it is an experience of acute unpleasantness. Apart from the physical annoyance and remoter forms of discomfort such as delays, it is apt to produce feelings of peculiar anxiety, fears of invisible dangers, strains of watching and listening for distant and unlocalised signals. The listless movements of the ship and her warning calls soon tell upon the nerves of the passengers; and that special, expectant, tacit anxiety and nervousness, always associated with this experience, make a fog the dreaded terror of the sea (all the more terrifying because of its very silence and gentleness) for the expert seafarer no less than the ignorant landsman. #4. Nevertheless, a fog at sea can be a source of intense relish and enjoyment. Abstract from the experience of the sea fog, for the moment, its danger and practical unpleasantness, just as every one in the enjoyment of a mountain-climb disregards its physical labour and its dancer (though, it is not denied, that these may incidentally enter into the enjoyment and enhance it); direct the attention to the features 'objectively' constituting the phenomenon - the veil surround you with an opaquensss as of transparent milk, blurring the outline of things and distorting their shapes into weird grotesqueness; observe the carrying-power of the air, producing the impression as if you could touch some far-off siren by merely putting out your hand and letting it lose itself behind that white wall; note the curious creamy smoothness of the water, hypocritically denying as it were any suggestion of dancer; and, above all, the strange solitude and remoteness from the world, as it can be found only on the highest mountain tops; and the experience may acquire, in its uncanny mingling of repose and terror, a flavour of such concentrated poignancy and delight as to contrast sharply with the blind and distempered anxiety of its other aspects. This contrast, often emerging with startling suddenness, is like a momentary switching on of some new current, or the passing ray of a brighter light, illuminating the outlook upon perhaps the most ordinary and familiar objects - an impression which we experience sometimes in instants of direct extremity, when our practical interest snaps like a wire from sheer over-tension, and we watch the consummation of some impending catastrophe with the marvelling unconcern of a mere spectator. #5. It is a difference of outlook, due - if such a metaphor is permissible - to the insertion of distance. This distance appears to lie between our own self and its affections, using the latter term in its broadest sense as anything which affects our being, bodily or spiritually, e.g., as sensation, perception, emotional state or idea. Usually, though not always, it amounts to the same thing to say that the Distance lies between our own self and such objects as are the sources or vehicles of such affections.\"",
+        "Hover element": "\"A short illustration will explain what is meant by 'Psychical Distance.' <br><br>Imagine a fog at sea; for most people it is an experience of acute unpleasantness. Apart from the physical annoyance and remoter forms of discomfort such as delays, it is apt to produce feelings of peculiar anxiety, fears of invisible dangers, strains of watching and listening for distant and unlocalised signals. The listless movements of the ship and her warning calls soon tell upon the nerves of the passengers; and that special, expectant, tacit anxiety and nervousness, always associated with this experience, make a fog the dreaded terror of the sea (all the more terrifying because of its very silence and gentleness) for the expert seafarer no less than the ignorant landsman. <br><br>\n\nNevertheless, a fog at sea can be a source of intense relish and enjoyment. Abstract from the experience of the sea fog, for the moment, its danger and practical unpleasantness, just as every one in the enjoyment of a mountain-climb disregards its physical labour and its dancer (though, it is not denied, that these may incidentally enter into the enjoyment and enhance it); direct the attention to the features 'objectively' constituting the phenomenon\u2014the veil surround you with an opaquensss as of transparent milk, blurring the outline of things and distorting their shapes into weird grotesqueness; observe the carrying-power of the air, producing the impression as if you could touch some far-off siren by merely putting out your hand and letting it lose itself behind that white wall; note the curious creamy smoothness of the water, hypocritically denying as it were any suggestion of dancer; and, above all, the strange solitude and remoteness from the world, as it can be found only on the highest mountain tops; and the experience may acquire, in its uncanny mingling of repose and terror, a flavour of such concentrated poignancy and delight as to contrast sharply with the blind and distempered anxiety of its other aspects. This contrast, often emerging with startling suddenness, is like a momentary switching on of some new current, or the passing ray of a brighter light, illuminating the outlook upon perhaps the most ordinary and familiar objects - an impression which we experience sometimes in instants of direct extremity, when our practical interest snaps like a wire from sheer over-tension, and we watch the consummation of some impending catastrophe with the marvelling unconcern of a mere spectator.  <br><br>\n\nIt is a difference of outlook, due\u2014if such a metaphor is permissible\u2014to the insertion of distance. This distance appears to lie between our own self and its affections, using the latter term in its broadest sense as anything which affects our being, bodily or spiritually, e.g., as sensation, perception, emotional state or idea. Usually, though not always, it amounts to the same thing to say that the Distance lies between our own self and such objects as are the sources or vehicles of such affections.\"",
         "id": 46
     },
     {
         "Page": "15",
         "Stanza": "3",
-        "Line from <i>Vexations</i>": "A little nectar was enough to make two hummingbirds",
-        "Referenced": "",
+        "Line from <i>Vexations</i>": "A little nectar was enough to make two hummingbirds<br>Fight to the death",
+        "Referenced": "Personal experience of the author",
         "Author": "",
         "Year": "",
         "Link": "",
         "File": "",
-        "Hover element": "I saw this during an extended visit to the Gila National Forest in New Mexico in the summer of 2014.",
+        "Hover element": "I saw this during an extended visit to the high desert of the Gila National Forest in New Mexico, summer 2014.",
         "id": 47
     },
     {
@@ -603,7 +603,7 @@ const citations = [
         "Page": "15",
         "Stanza": "4",
         "Line from <i>Vexations</i>": "As for the youngest, there were tender age facilities",
-        "Referenced": "\"At least 3 \u201ctender age\u201d shelters set up for child migrants\"",
+        "Referenced": "At least 3 \u201ctender age\u201d shelters set up for child migrants",
         "Author": "AP News",
         "Year": "2018",
         "Link": "https://apnews.com/article/north-america-us-news-ap-top-news-mi-state-wire-immigration-dc0c9a5134d14862ba7c7ad9a811160e#:~:text=The%20Trump%20administration%20has%20set,The%20Associated%20Press%20has%20learned.",
@@ -642,22 +642,10 @@ const citations = [
         "Referenced": "The Runaway Bunny",
         "Author": "Margaret Wise Brown",
         "Year": "1942",
-        "Link": "https://en.wikipedia.org/wiki/The_Runaway_Bunny",
-        "File": "",
+        "Link": "",
+        "File": "runaway-mother.jpg",
         "Hover element": "",
         "id": 53
-    },
-    {
-        "Page": "16",
-        "Stanza": "2",
-        "Line from <i>Vexations</i>": "<i>I will become your mother and catch you in my arms and hug you</i>, I said",
-        "Referenced": "The Runaway Bunny",
-        "Author": "Margaret Wise Brown",
-        "Year": "1942",
-        "Link": "",
-        "File": "",
-        "Hover element": "",
-        "id": 54
     },
     {
         "Page": "16",
@@ -667,9 +655,9 @@ const citations = [
         "Author": "Margaret Wise Brown",
         "Year": "1947",
         "Link": "",
-        "File": "goodnight-moon.png",
+        "File": "goodnight-moon.jpg",
         "Hover element": "",
-        "id": 55
+        "id": 54
     },
     {
         "Page": "17",
@@ -677,11 +665,11 @@ const citations = [
         "Line from <i>Vexations</i>": "Over the PA someone said, <i>If mine eye offend thee, pluck it out</i>",
         "Referenced": "Matthew 5:29",
         "Author": "St. Matthew the Evangelist",
-        "Year": "",
+        "Year": "1st c. AD",
         "Link": "",
         "File": "",
         "Hover element": "\"And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.\"",
-        "id": 56
+        "id": 55
     },
     {
         "Page": "17",
@@ -693,19 +681,19 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\"Objects should not touch because they are not alive. You use them, put them back in place, you live among them: they are useful, nothing more. But they touch me, it is unbearable. I am afraid of being in contact with them as though they were living beasts.\"",
-        "id": 57
+        "id": 56
     },
     {
         "Page": "17",
         "Stanza": "5",
         "Line from <i>Vexations</i>": "Sweeping water back into the wine-dark sea",
-        "Referenced": "The Iliad",
+        "Referenced": "Iliad and Odyssey",
         "Author": "Homer",
         "Year": "8th c. BC",
-        "Link": "",
+        "Link": "https://en.wikipedia.org/wiki/Wine-dark_sea",
         "File": "",
-        "Hover element": "A frequently-used Homeric epithet.",
-        "id": 58
+        "Hover element": "",
+        "id": 57
     },
     {
         "Page": "19",
@@ -715,9 +703,9 @@ const citations = [
         "Author": "Balthus",
         "Year": "1939",
         "Link": "",
-        "File": "",
+        "File": "balthus-therese.jpg",
         "Hover element": "",
-        "id": 59
+        "id": 58
     },
     {
         "Page": "20",
@@ -729,7 +717,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "My father once said this about the fast-food chain restaurant In-N-Out.",
-        "id": 60
+        "id": 59
     },
     {
         "Page": "20",
@@ -741,7 +729,7 @@ const citations = [
         "Link": "https://www.youtube.com/watch?v=rKs604lF-tY&t=1s",
         "File": "",
         "Hover element": "",
-        "id": 61
+        "id": 60
     },
     {
         "Page": "20",
@@ -753,7 +741,7 @@ const citations = [
         "Link": "https://www.youtube.com/watch?v=mSB71jNq-yQ",
         "File": "",
         "Hover element": "",
-        "id": 62
+        "id": 61
     },
     {
         "Page": "21",
@@ -765,7 +753,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\"In effect, Funes not only remembered every leaf on every tree of every wood, but even every one of the times he had perceived or imagined it. He determined to reduce all of his past experience to some seventy thousand recollections, which he would later define numerically. Two considerations dissuaded him: the thought that the task was interminable and the thought that it was useless. He knew that at the hour of his death he would scarcely have finished classifying even all the memories of his childhood.\"",
-        "id": 63
+        "id": 62
     },
     {
         "Page": "21",
@@ -776,8 +764,8 @@ const citations = [
         "Year": "1963",
         "Link": "https://poets.org/poem/blessing",
         "File": "",
-        "Hover element": "A mutilation of Wright's line: \"Twilight bounds softly forth on the grass.\"",
-        "id": 64
+        "Hover element": "",
+        "id": 63
     },
     {
         "Page": "21",
@@ -789,7 +777,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\"I was what you are; you will be what I am.\" Often written on gravestones.",
-        "id": 65
+        "id": 64
     },
     {
         "Page": "21",
@@ -801,19 +789,19 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\"Praise[d] be\" is a phrase often repeated in Gilead, the repressive religious society depicted in Margaret Atwood's <i>The Handmaid's Tale</i>.",
-        "id": 66
+        "id": 65
     },
     {
         "Page": "22",
         "Stanza": "3",
         "Line from <i>Vexations</i>": "A rabbit looked like undetached rabbit parts",
-        "Referenced": "On the Reasons for Indeterminacy of Translation",
+        "Referenced": "Word and Object",
         "Author": "Willard Van Orman Quine",
-        "Year": "1970",
-        "Link": "https://www.jstor.org/stable/2023887",
+        "Year": "1960",
+        "Link": "",
         "File": "",
-        "Hover element": "",
-        "id": 67
+        "Hover element": "\u201cFor, consider \u2018gavagai\u2019. Who knows but what the objects to which this term applies are not rabbits after all, but mere stages, or brief temporal segments, of rabbits? In either event the stimulus situations that prompt assent to \u2018Gavagai\u2019 would be the same as for \u2018Rabbit\u2019. Or perhaps the objects to which \u2018gavagai\u2019 applies are all and sundry undetached parts of rabbits; again the stimulus meaning would register no difference. When from the sameness of stimulus meanings of \u2018Gavagai\u2019 and \u2018Rabbit\u2019 the linguist leaps to the conclusion that a gavagai is a whole enduring rabbit, he is just taking for granted that the native is enough like us to have a brief general term for rabbits and no brief general term for rabbit stages or parts.\n<br>[\u2026]<br>\nPoint to a rabbit and you have pointed to a stage of a rabbit, to an integral part of a rabbit, to the rabbit fusion, and to where rabbithood is manifested. Point to an integral part of a rabbit and you have pointed again to the remaining four sorts of things; and so on around. \n<br>[\u2026]<br>\nTwo pointings may be pointings to a numerically identical rabbit, to numerically distinct rabbit parts, and to numerically distinct rabbit stages; the inscrutability lies not in resemblance, but in the anatomy of sentences. We could equate a native expression with any of the disparate English terms \u2018rabbit\u2019, \u2018rabbit stage\u2019, \u2018undetached rabbit part\u2019, etc., and still, by compensatorily juggling the translation of numerical identity and associated particles, preserve conformity to stimulus meanings of occasion sentences.\u201d",
+        "id": 66
     },
     {
         "Page": "22",
@@ -824,8 +812,8 @@ const citations = [
         "Year": "1832",
         "Link": "https://www.poetryfoundation.org/poems/45364/the-lotos-eaters",
         "File": "",
-        "Hover element": "\"And tender curving lines of creamy spray\"",
-        "id": 68
+        "Hover element": "To dream and dream, like yonder amber light, <br>\nWhich will not leave the myrrh-bush on the height; <br>\nTo hear each other's whisper'd speech; <br>\nEating the Lotos day by day, <br>\nTo watch the crisping ripples on the beach, <br>\nAnd tender curving lines of creamy spray; <br>\nTo lend our hearts and spirits wholly <br>\nTo the influence of mild-minded melancholy; <br>\nTo muse and brood and live again in memory, <br>\nWith those old faces of our infancy <br>\nHeap'd over with a mound of grass, <br>\nTwo handfuls of white dust, shut in an urn of brass!<br>",
+        "id": 67
     },
     {
         "Page": "22",
@@ -836,8 +824,8 @@ const citations = [
         "Year": "2019",
         "Link": "https://poets.org/poem/collude",
         "File": "",
-        "Hover element": "\"What color is the skin of your inner arm, creamy?\"",
-        "id": 69
+        "Hover element": "\nAre you parched?<br><br>\nIs your name Pinky?<br><br>\nWhat color is the skin of your inner arm, creamy?<br><br>\nValentine City rebate: a box of chocolates from Safeway.<br><br>\nYours, yours, yours.<br><br>\nIn its entirety.<br><br>\nDon't collude with your inability to give or receive love.<br><br>\nCollude, instead, with the lining of the universe.<br>",
+        "id": 68
     },
     {
         "Page": "22",
@@ -848,8 +836,8 @@ const citations = [
         "Year": "1956",
         "Link": "https://www.poetryfoundation.org/poems/47766/the-instruction-manual",
         "File": "",
-        "Hover element": "\"And the musicians mingle among them, in their creamy white uniforms, and talk\"",
-        "id": 70
+        "Hover element": "The paraders are resting and sipping drinks through straws<br>\n(The drinks are dispensed from a large glass crock by a lady in dark blue),\u00a0\u00a0\u00a0<br>\nAnd the musicians mingle among them, in their creamy white uniforms, and talk<br>\nAbout the weather, perhaps, or how their kids are doing at school.<br>",
+        "id": 69
     },
     {
         "Page": "22",
@@ -861,7 +849,7 @@ const citations = [
         "Link": "https://www.poetryfoundation.org/poetrymagazine/articles/69163/my-father-was-white-but-not-quite",
         "File": "",
         "Hover element": "\"When I am back in Boston in 2000 a soft snow is falling diagonally. There is no wind. The trees are creamy and drooping.\"",
-        "id": 71
+        "id": 70
     },
     {
         "Page": "22",
@@ -873,7 +861,7 @@ const citations = [
         "Link": "http://the-potions-masters-nephew.com/",
         "File": "",
         "Hover element": "\"Ginny grinned to herself and followed a running Snape. \"I hope it's empty...\" she murmured, catching up and standing in front of a creamy picture of a lemon.\"",
-        "id": 72
+        "id": 71
     },
     {
         "Page": "23",
@@ -885,19 +873,19 @@ const citations = [
         "Link": "https://books.google.com/books/about/E_coli_in_Motion.html?id=qyVoI1iUiBkC",
         "File": "",
         "Hover element": "",
-        "id": 73
+        "id": 72
     },
     {
         "Page": "23",
         "Stanza": "5",
         "Line from <i>Vexations</i>": "Organ, an organ without a body",
-        "Referenced": "Gilles Deleuze",
-        "Author": "Anti-Oedipus: Capitalism and Schizophrenia",
-        "Year": "1977",
-        "Link": "https://books.google.com/books/about/Anti_Oedipus.html?id=-P_aAAAAMAAJ",
+        "Referenced": "Body without organs",
+        "Author": "Antonin Artaud",
+        "Year": "1947",
+        "Link": "https://en.wikipedia.org/wiki/Body_without_organs",
         "File": "",
         "Hover element": "",
-        "id": 74
+        "id": 73
     },
     {
         "Page": "23",
@@ -909,7 +897,7 @@ const citations = [
         "Link": "https://en.wikipedia.org/wiki/Ens%C5%8D",
         "File": "",
         "Hover element": "",
-        "id": 75
+        "id": 74
     },
     {
         "Page": "24",
@@ -919,9 +907,9 @@ const citations = [
         "Author": "Hayao Miyazaki",
         "Year": "1997",
         "Link": "",
-        "File": "",
+        "File": "mononoke-hair.jpg",
         "Hover element": "",
-        "id": 76
+        "id": 75
     },
     {
         "Page": "24",
@@ -933,7 +921,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "",
-        "id": 77
+        "id": 76
     },
     {
         "Page": "24",
@@ -943,9 +931,9 @@ const citations = [
         "Author": "",
         "Year": "2018",
         "Link": "https://www.bbc.com/news/world-us-canada-44411208",
-        "File": "",
-        "Hover element": "\"Lockdown, lockdown, lock the door. Shut the lights off, say no more.\"",
-        "id": 78
+        "File": "lockdown.jpg",
+        "Hover element": "A song taught to kindergarten students, five years old, at a school in Somerville, Massachussetts:<br><br>\n\nLockdown, lockdown, lock the door<br>\nShut the lights off, say no more<br><br>\n\nGo behind the desk and hide<br>\nWait until it\u2019s safe inside<br><br>\n\nLockdown, lockdown, it\u2019s all done<br>\nNow it\u2019s time to have some fun!",
+        "id": 77
     },
     {
         "Page": "24",
@@ -957,7 +945,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\u201cA kiss with Lenore is a scenario in which I skate with buttered soles over the moist rink of lower lip, sheltered from weathers by the wet warm overhang of upper, finally to crawl between lip and gum and pull the lip to me like a child\u2019s blanket and stare over it with beady, unfriendly eyes out at the world external to Lenore, of which I no longer wish to be part. That I must in the final analysis remain part of the world that is external to and other from Lenore Beadsman is to me a source of profound grief. That others may dwell deep, deep within the ones they love, drink from the soft cup at the creamy lake at the center of the Object of Passion, while I am fated forever only to intuit the presence of deep recesses while I poke my nose, as it were, merely into the foyer of the Great House of Love, agitate briefly, and make a small mess on the doormat, pisses me off to no small degree. But that Lenore finds such tiny frenzies, such conversations just inside the Screen Door of Union, to be not only pleasant and briefly diverting but somehow apparently right, fulfilling, significant, in some sense wonderful, quite simply and not at all surprisingly makes me feel the same way, enlarges my sense of it and me, sends me hurrying up the walk to that Screen Door in my best sportjacket and flower in lapel as excited as any schoolboy, time after time, brings me charging to the cave entrance in leopardskin shirt, avec club, bellowing for admittance and promising general kickings of ass if I am impeded in any way.\u201d",
-        "id": 79
+        "id": 78
     },
     {
         "Page": "24",
@@ -969,7 +957,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\"The firelight shadows were dancing over the walls; the cats were purring; and a huge bowl of hothouse chrysanthemums, sent to Phil by one of the victims, shone through the golden gloom like creamy moons.\"",
-        "id": 80
+        "id": 79
     },
     {
         "Page": "24",
@@ -980,8 +968,8 @@ const citations = [
         "Year": "1982",
         "Link": "",
         "File": "",
-        "Hover element": "\"August 8, Friday. \"He is the transparence of the place in which He is and in his poems we find peace.\" \n- Stevens\"\n<br><br>\n\"I am awestruck, excited, smiling inside creamy as a cat: The day has evaporated, quite gone, in a rapt contemplation of my poem \"Mussel Hunter at Rock Harbor,\" which came out in the August 9 issue of the blessed glossy New Yorker\u2014the title in that queer, wobbly, half-archaic type I've dreamed poem and story titles in for about eight years. Queerest of all, I dreamed the poem would come out last night!\"",
-        "id": 81
+        "Hover element": "August 8, Friday. \"He is the transparence of the place in which He is and in his poems we find peace.\" \n- Stevens\n<br><br>\nI am awestruck, excited, smiling inside creamy as a cat: The day has evaporated, quite gone, in a rapt contemplation of my poem \"Mussel Hunter at Rock Harbor,\" which came out in the August 9 issue of the blessed glossy New Yorker\u2014the title in that queer, wobbly, half-archaic type I've dreamed poem and story titles in for about eight years. Queerest of all, I dreamed the poem would come out last night!",
+        "id": 80
     },
     {
         "Page": "24",
@@ -993,7 +981,7 @@ const citations = [
         "Link": "https://www.poetryfoundation.org/poems/52192/at-the-fishhouses",
         "File": "",
         "Hover element": "The big fish tubs are completely lined<br>\nwith layers of beautiful herring scales<br>\nand the wheelbarrows are similarly plastered<br>\nwith creamy iridescent coats of mail,<br>\nwith small iridescent flies crawling on them.",
-        "id": 82
+        "id": 81
     },
     {
         "Page": "24",
@@ -1005,7 +993,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\"The creamy beige of the wall just sort of flows through you like vanilla ice cream\u2026\"",
-        "id": 83
+        "id": 82
     },
     {
         "Page": "24",
@@ -1017,7 +1005,7 @@ const citations = [
         "Link": "https://www.poetryfoundation.org/poetrymagazine/poems/57741/that-rats-death",
         "File": "",
         "Hover element": "",
-        "id": 84
+        "id": 83
     },
     {
         "Page": "24",
@@ -1029,7 +1017,7 @@ const citations = [
         "Link": "https://www.youtube.com/watch?v=txqiwrbYGrs",
         "File": "",
         "Hover element": "",
-        "id": 85
+        "id": 84
     },
     {
         "Page": "25",
@@ -1039,9 +1027,9 @@ const citations = [
         "Author": "Julian Rosefeldt",
         "Year": "2017",
         "Link": "",
-        "File": "",
+        "File": "rosefeldt.jpg",
         "Hover element": "",
-        "id": 86
+        "id": 85
     },
     {
         "Page": "25",
@@ -1053,7 +1041,7 @@ const citations = [
         "Link": "",
         "File": "farewell.jpg",
         "Hover element": "",
-        "id": 87
+        "id": 86
     },
     {
         "Page": "26",
@@ -1065,7 +1053,7 @@ const citations = [
         "Link": "https://www.theguardian.com/world/2013/aug/13/glow-in-dark-rabbits-scientists",
         "File": "",
         "Hover element": "",
-        "id": 88
+        "id": 87
     },
     {
         "Page": "26",
@@ -1077,7 +1065,7 @@ const citations = [
         "Link": "https://www.reuters.com/article/idUSN31502302/",
         "File": "",
         "Hover element": "",
-        "id": 89
+        "id": 88
     },
     {
         "Page": "27",
@@ -1089,7 +1077,7 @@ const citations = [
         "Link": "https://www.youtube.com/watch?v=XpJ8K1kt8m8",
         "File": "",
         "Hover element": "",
-        "id": 90
+        "id": 89
     },
     {
         "Page": "27",
@@ -1097,11 +1085,11 @@ const citations = [
         "Line from <i>Vexations</i>": "R stood for Romeo, H stood for Hotel",
         "Referenced": "NATO phonetic alphabet",
         "Author": "",
-        "Year": "",
+        "Year": "1950s",
         "Link": "https://en.wikipedia.org/wiki/NATO_phonetic_alphabet",
         "File": "",
         "Hover element": "",
-        "id": 91
+        "id": 90
     },
     {
         "Page": "28",
@@ -1113,7 +1101,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "",
-        "id": 92
+        "id": 91
     },
     {
         "Page": "28",
@@ -1125,19 +1113,19 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "A lullaby my mother sang to me as a child; I modified the lyrics.",
-        "id": 93
+        "id": 92
     },
     {
         "Page": "28",
         "Stanza": "1",
         "Line from <i>Vexations</i>": "She was everywhere, or starting to be everywhere",
-        "Referenced": "Guillaume Apollinaire",
-        "Author": "",
-        "Year": "",
+        "Referenced": "\"Marvel of War\"",
+        "Author": "Guillaume Apollinaire",
+        "Year": "1918",
         "Link": "",
         "File": "",
-        "Hover element": "\u201cI am everywhere or rather I start to be everywhere / It is I who am starting this thing of the centuries to come\u201d",
-        "id": 94
+        "Hover element": "I and my company have slipped into the softness of this war along<br>\nThe long communication trenches<br>\nShouts of flame endlessly announce my presence<br>\nI\u2019ve dug out the bed where I slide and spread<br>\nInto a thousand rivers that flow everywhere<br>\nI\u2019m in the front line trench and yet I\u2019m everywhere or rather<br>\nI\u2019m starting to be everywhere<br>\nI\u2019m the one beginning this thing of centuries yet to come",
+        "id": 93
     },
     {
         "Page": "29",
@@ -1149,19 +1137,19 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "My father installed one of these decals after birds repeatedly died flying into his living room window in California.",
-        "id": 95
+        "id": 94
     },
     {
         "Page": "29",
         "Stanza": "3",
         "Line from <i>Vexations</i>": "An album of photographs of his little boy",
         "Referenced": "Fullmetal Alchemist: Brotherhood",
-        "Author": "",
+        "Author": "Hiromu Arakawa",
         "Year": "2009",
         "Link": "",
-        "File": "fma.png",
+        "File": "fma.jpg",
         "Hover element": "Fullmetal Alchemist: Brotherhood, season 1, episode 36 (\"Family Portrait\").",
-        "id": 96
+        "id": 95
     },
     {
         "Page": "29",
@@ -1173,7 +1161,7 @@ const citations = [
         "Link": "https://www.akpress.org/the-undercommons.html",
         "File": "",
         "Hover element": "",
-        "id": 97
+        "id": 96
     },
     {
         "Page": "29",
@@ -1185,7 +1173,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "A performance by John Lincoln-Vogel in the Gila National Forest, high desert, with a small group of artists, c. 2014.",
-        "id": 98
+        "id": 97
     },
     {
         "Page": "30",
@@ -1197,7 +1185,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "My mother said this to me about our family dog, a German shepherd named Mishka.",
-        "id": 99
+        "id": 98
     },
     {
         "Page": "30",
@@ -1209,7 +1197,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "A modified version of my mother's first impression of life outside the USSR, after first fleeing from Riga to Milan.",
-        "id": 100
+        "id": 99
     },
     {
         "Page": "30",
@@ -1221,19 +1209,19 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\u0414\u0443\u0440\u0430\u043a\u0443 \u043f\u043e\u043b\u0440\u0430\u0431\u043e\u0442\u044b \u043d\u0435 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442. (\"duraku pol rabotye ne pokazivaut\")",
-        "id": 101
+        "id": 100
     },
     {
         "Page": "30",
         "Stanza": "3",
         "Line from <i>Vexations</i>": "Our eyes were staring, our mouths were open, our wings were spread",
         "Referenced": "On the Concept of History & Angelus Novus",
-        "Author": "Walter Benjamin & Paul Klee",
+        "Author": "Walter Benjamin, on Paul Klee",
         "Year": "1942",
         "Link": "https://www.sfu.ca/~andrewf/CONCEPT2.html",
         "File": "angelus-novus.jpg",
         "Hover element": "\"A Klee painting named \u2018Angelus Novus\u2019 shows an angel looking as though he is about to move away from something he is fixedly contemplating. His eyes are staring, his mouth is open, his wings are spread. This is how one pictures the angel of history. His face is turned toward the past. Where we perceive a chain of events, he sees one single catastrophe which keeps piling wreckage and hurls it in front of his feet. The angel would like to stay, awaken the dead, and make whole what has been smashed. But a storm is blowing in from Paradise; it has got caught in his wings with such a violence that the angel can no longer close them. The storm irresistibly propels him into the future to which his back is turned, while the pile of debris before him grows skyward. This storm is what we call progress.\"",
-        "id": 102
+        "id": 101
     },
     {
         "Page": "30",
@@ -1245,19 +1233,19 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\u201cObjects should not touch because they are not alive. You use them, put them back in place, you live among them: they are useful, nothing more. But they touch me, it is unbearable. I am afraid of being in contact with them as though they were living beasts.\u201d",
-        "id": 103
+        "id": 102
     },
     {
         "Page": "30",
         "Stanza": "5",
         "Line from <i>Vexations</i>": "They made a sound like grains of rice falling on a cymbal",
         "Referenced": "Ricefall",
-        "Author": "Michael Pisaro",
+        "Author": "Michael Pisaro-Liu",
         "Year": "",
         "Link": "https://www.youtube.com/watch?v=FXR4zm_C-ZA",
         "File": "",
         "Hover element": "",
-        "id": 104
+        "id": 103
     },
     {
         "Page": "31",
@@ -1269,7 +1257,7 @@ const citations = [
         "Link": "https://www.thenewatlantis.com/wp-content/uploads/legacy-pdfs/20091130_determination_of_death.pdf",
         "File": "",
         "Hover element": "\"All organisms have a needy mode of being. Unlike inanimate objects, which continue to exist through inertia and without effort, every organism persists only thanks to its own exertions. To preserve themselves, organisms must\u2014and can and do\u2014engage in commerce with the surrounding world. Their constant need for oxygenated air and nutrients is matched by their ability to satisfy that need, by engaging in certain activities, reaching out into the surrounding environment to secure the required sustenance. This is the definitive work of the organism as an organism. It is what an organism \u201cdoes\u201d and what distinguishes every organism from non-living things.\"",
-        "id": 105
+        "id": 104
     },
     {
         "Page": "31",
@@ -1281,7 +1269,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "Song written at the Fondation Jan Michalski, inspired by Hiromi Ito's <i>Wild Grass on the Riverbank</i>.",
-        "id": 106
+        "id": 105
     },
     {
         "Page": "32",
@@ -1293,7 +1281,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "",
-        "id": 107
+        "id": 106
     },
     {
         "Page": "32",
@@ -1305,7 +1293,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\"In spring the garden urns, casually filled with wind-blown plants, were gay as ever. Violets came and daffodils. But the stillness and the brightness of the day were as strange as the chaos and tumult of night, with the trees standing there, and the flowers standing there, looking before them, looking up, yet beholding nothing, eyeless, and thus terrible.\" (110)",
-        "id": 108
+        "id": 107
     },
     {
         "Page": "32",
@@ -1316,8 +1304,8 @@ const citations = [
         "Year": "1993",
         "Link": "https://www.nzepc.auckland.ac.nz/features/taonga/sturmer.asp",
         "File": "",
-        "Hover element": "\"The shadow of a cat sits on the shadow of a fence\"",
-        "id": 109
+        "Hover element": "A pile of cigarette butts lies at the end of a long pier <br><br>\n\nIn a house by the sea, a man in his night-shirt is changing a light-bulb <br><br>\n\nIn the hair salon, a small girl places two red plastic straws in her hair <br><br>\n\nAn empty cassette box shines like a pool of water on a dark bedspread <br><br>\n\nThe shadow of a cat sits on the shadow of a fence ",
+        "id": 108
     },
     {
         "Page": "32",
@@ -1329,7 +1317,7 @@ const citations = [
         "Link": "https://www.bbc.com/news/uk-england-essex-34474620",
         "File": "",
         "Hover element": "",
-        "id": 110
+        "id": 109
     },
     {
         "Page": "32",
@@ -1341,7 +1329,7 @@ const citations = [
         "Link": "https://en.wikipedia.org/wiki/The_medium_is_the_message",
         "File": "",
         "Hover element": "",
-        "id": 111
+        "id": 110
     },
     {
         "Page": "32",
@@ -1353,7 +1341,7 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\"You said very quickly, \"Oh how I love my mamma,\" pronouncing it carefully and you saw mamma's face and felt all tender, you thought vaguely, vaguely, that God was watching you and afterwards you didn't think about it any more, you were all creamy with tenderness and then there were words dancing in your ears: mamma, MAMMA, MAMMA. That only lasted an instant, of course; it was like Lucien trying to balance a chair on his feet. But if, just at that moment, you said, \"Pacota,\" God had lost: He had only seen Good and what He saw engraved itself in His memory forever. But Lucien tired of this game because he had to make too much effort and besides you never knew whether God had won or lost.\"",
-        "id": 112
+        "id": 111
     },
     {
         "Page": "32",
@@ -1365,7 +1353,7 @@ const citations = [
         "Link": "https://www.ncbi.nlm.nih.gov/books/NBK481829/",
         "File": "",
         "Hover element": "",
-        "id": 113
+        "id": 112
     },
     {
         "Page": "32",
@@ -1377,7 +1365,7 @@ const citations = [
         "Link": "",
         "File": "anais-nin-diary.png",
         "Hover element": "\"Canada was a generous, warmhearted host. He seemed to be whipping up excitement and expansiveness, creating a sumptuous creamy evening. His warm voice immersed you, his warm hand led you here and there, linking people, fusing them.\"",
-        "id": 114
+        "id": 113
     },
     {
         "Page": "32",
@@ -1389,19 +1377,19 @@ const citations = [
         "Link": "",
         "File": "",
         "Hover element": "\u201cNow perhaps one deliberately falls; now all the flowers, the voluptuous purple, the creamy, in whose waxen flesh the spoon had left a swirl of cherry juice; gladioli; dahlias; lilies, sacerdotal, ecclesiastical; flowers with prim cardboard collars tinged apricot and amber, all gently incline their heads to the breeze-all, with the exception of the heavy sunflower, who proudly acknowledges the sun at midday and perhaps at midnight rebuffs the moon.\u201d",
-        "id": 115
+        "id": 114
     },
     {
         "Page": "32",
         "Stanza": "4",
-        "Line from <i>Vexations</i>": "Creamy, someone wrote, regarding a brook full of garbage",
+        "Line from <i>Vexations</i>": "<i>Creamy</i>, someone wrote, regarding a brook full of garbage",
         "Referenced": "Garbage",
         "Author": "A. R. Ammons",
         "Year": "1993",
         "Link": "",
         "File": "",
         "Hover element": "garbage has to be the poem of our time because<br>\ngarbage is spiritual, believable enough <br>\n <br><br>\nto get our attention, getting in the way, piling<br>\nup, stinking, turning brooks brownish and <br>\ncreamy white:  what else deflects us from the<br>\nerrors of our illusionary ways, not a temptation<br>\n <br><br>\nto trashlessness, that is too far off, and,<br>\nanyway, unimaginable, unrealistic<br>",
-        "id": 116
+        "id": 115
     },
     {
         "Page": "32",
@@ -1411,9 +1399,9 @@ const citations = [
         "Author": "Charlie Kaufman",
         "Year": "2002",
         "Link": "",
-        "File": "",
+        "File": "plantsinmotion--nutation-of-tulip-stems.mp4",
         "Hover element": "",
-        "id": 117
+        "id": 116
     },
     {
         "Page": "32",
@@ -1425,7 +1413,7 @@ const citations = [
         "Link": "https://www.nzepc.auckland.ac.nz/features/taonga/sturmer.asp",
         "File": "",
         "Hover element": "\"A pile of cigarette butts lies at the end of a long pier <br>\nIn a house by the sea, a man in his night-shirt is changing a light-bulb <br>\nIn the hair salon, a small girl places two red plastic straws in her hair <br>\nAn empty cassette box shines like a pool of water on a dark bedspread <br>\nThe shadow of a cat sits on the shadow of a fence\"<br>",
-        "id": 118
+        "id": 117
     },
     {
         "Page": "33",
@@ -1437,19 +1425,19 @@ const citations = [
         "Link": "https://en.wikipedia.org/wiki/List_of_mass_shootings_in_the_United_States",
         "File": "",
         "Hover element": "The shootings in <i>Vexations</i> are a combination of fiction and non-fiction. Many of these events, both \"invented\" and researched, have occurred repeatedly in real life as well as in media depictions, and are therefore impossible to trace to a single point of reference.",
-        "id": 119
+        "id": 118
     },
     {
         "Page": "33",
         "Stanza": "4",
-        "Line from <i>Vexations</i>": "I thought it was firecrackers, said the DJ",
+        "Line from <i>Vexations</i>": "<i>I thought it was firecrackers</i>, said the DJ",
         "Referenced": "Pulse nightclub shooting",
         "Author": "",
         "Year": "2016",
         "Link": "https://www.nytimes.com/2016/06/13/us/last-call-at-orlando-club-and-then-the-shots-rang-out.html",
         "File": "",
         "Hover element": "",
-        "id": 120
+        "id": 119
     },
     {
         "Page": "34",
@@ -1459,8 +1447,20 @@ const citations = [
         "Author": "",
         "Year": "2019",
         "Link": "",
-        "File": "horse-flies-2.png",
+        "File": "horse-flies-2.jpg",
         "Hover element": "Horse seen at the local stable in Montricher, Switzerland, while writing Vexations.",
+        "id": 120
+    },
+    {
+        "Page": "",
+        "Stanza": "",
+        "Line from <i>Vexations</i>": "",
+        "Referenced": "",
+        "Author": "",
+        "Year": "",
+        "Link": "",
+        "File": "",
+        "Hover element": "",
         "id": 121
     },
     {
@@ -1490,7 +1490,7 @@ const citations = [
     {
         "Page": "38",
         "Stanza": "1",
-        "Line from <i>Vexations</i>": "I don\u2019t wanna have to kill myself",
+        "Line from <i>Vexations</i>": "<i>I don\u2019t wanna have to kill myself</i>",
         "Referenced": "Personal experience of the author",
         "Author": "",
         "Year": "2018",
@@ -1562,7 +1562,7 @@ const citations = [
     {
         "Page": "39",
         "Stanza": "5",
-        "Line from <i>Vexations</i>": "Over the PA someone said, You don\u2019t really care for music, do ya?",
+        "Line from <i>Vexations</i>": "Over the PA someone said, <i>You don\u2019t really care for music, do ya?</i>",
         "Referenced": "Hallelujah",
         "Author": "Leonard Cohen",
         "Year": "1984",
@@ -1574,7 +1574,7 @@ const citations = [
     {
         "Page": "40",
         "Stanza": "1",
-        "Line from <i>Vexations</i>": "\u2014It\u2019s a drawing of a HORSE in a cage",
+        "Line from <i>Vexations</i>": "<i>\u2014It\u2019s a drawing of a HORSE in a cage</i>",
         "Referenced": "The Little Prince (Le Petit Prince)",
         "Author": "Antoine de Saint-Exup\u00e9ry",
         "Year": "1943",
@@ -1622,7 +1622,7 @@ const citations = [
     {
         "Page": "40",
         "Stanza": "2",
-        "Line from <i>Vexations</i>": "Over the PA someone said, You know your mother doesn\u2019t like to be disturbed when she\u2019s watching the war",
+        "Line from <i>Vexations</i>": "Over the PA someone said, <i>You know your mother doesn\u2019t like to be disturbed when she\u2019s watching the war</i>",
         "Referenced": "Personal experience of the author",
         "Author": "",
         "Year": "2022",
@@ -1634,7 +1634,7 @@ const citations = [
     {
         "Page": "40",
         "Stanza": "3",
-        "Line from <i>Vexations</i>": "Over the PA someone said, And the wisdom to know the difference",
+        "Line from <i>Vexations</i>": "Over the PA someone said, <i>And the wisdom to know the difference</i>",
         "Referenced": "Serenity prayer",
         "Author": "Alcoholics Anonymous",
         "Year": "",
@@ -1658,7 +1658,7 @@ const citations = [
     {
         "Page": "42",
         "Stanza": "2",
-        "Line from <i>Vexations</i>": "Rain is only rain in midair, went the saying",
+        "Line from <i>Vexations</i>": "<i>Rain is only rain in midair</i>, went the saying",
         "Referenced": "\"How to Pray\"",
         "Author": "Annelyse Gelman",
         "Year": "2013",
@@ -1670,7 +1670,7 @@ const citations = [
     {
         "Page": "42",
         "Stanza": "4",
-        "Line from <i>Vexations</i>": "\u2014What\u2019s an ontological sickness? said daughter",
+        "Line from <i>Vexations</i>": "\u2014<i>What\u2019s an ontological sickness?</i> said daughter",
         "Referenced": "Personal experience of the author",
         "Author": "",
         "Year": "",
@@ -1682,7 +1682,7 @@ const citations = [
     {
         "Page": "42",
         "Stanza": "5",
-        "Line from <i>Vexations</i>": "Indefinite postponement, said Hank",
+        "Line from <i>Vexations</i>": "<i>Indefinite postponement</i>, said Hank",
         "Referenced": "Criminal Law: Indefinite Postponement of Sentence",
         "Author": "",
         "Year": "1958",
@@ -1694,13 +1694,13 @@ const citations = [
     {
         "Page": "42",
         "Stanza": "5",
-        "Line from <i>Vexations</i>": "\u2014I don\u2019t have access; I am access, said daughter",
+        "Line from <i>Vexations</i>": "\u2014<i>I don\u2019t have access; I am access</i>, said daughter",
         "Referenced": "Personal experience of the author",
-        "Author": "Jason Grier",
+        "Author": "",
         "Year": "",
         "Link": "",
         "File": "",
-        "Hover element": "2016, Berlin, Germany.",
+        "Hover element": "My friend Jason Grier said this to me in 2016 in Berlin, Germany.",
         "id": 141
     },
     {
@@ -1711,7 +1711,7 @@ const citations = [
         "Author": "Auden Lincoln-Vogel",
         "Year": "2021",
         "Link": "https://audenlincolnvogel.com/pieszglowa",
-        "File": "dog-with-head.jpg",
+        "File": "dogwithahead.jpg",
         "Hover element": "",
         "id": 142
     },
@@ -1730,7 +1730,7 @@ const citations = [
     {
         "Page": "43",
         "Stanza": "5",
-        "Line from <i>Vexations</i>": "Over the PA someone said, Nor again is there anyone who loves or pursues or desires / To obtain pain of itself, because it is pain",
+        "Line from <i>Vexations</i>": "Over the PA someone said, <i>Nor again is there anyone who loves or pursues or desires / To obtain pain of itself, because it is pain</i>",
         "Referenced": "De finibus bonorum et malorum",
         "Author": "Cicero",
         "Year": "100 B.C.",
@@ -1742,7 +1742,7 @@ const citations = [
     {
         "Page": "44",
         "Stanza": "2",
-        "Line from <i>Vexations</i>": "A spoken word is not a sparrow, went the saying",
+        "Line from <i>Vexations</i>": "<i>A spoken word is not a sparrow</i>, went the saying",
         "Referenced": "Russian idiom",
         "Author": "",
         "Year": "",
@@ -1783,7 +1783,7 @@ const citations = [
         "Author": "Rintaro",
         "Year": "2001",
         "Link": "https://www.youtube.com/watch?v=85bL2uRdJ34",
-        "File": "",
+        "File": "metropolis.jpg",
         "Hover element": "",
         "id": 148
     },
@@ -1808,7 +1808,7 @@ const citations = [
         "Year": "2008",
         "Link": "https://www.youtube.com/watch?v=GLoncQ9Euik",
         "File": "",
-        "Hover element": "\"A Boy and a Girl\" was written by Octavio Paz and set for choir by Eric Whitacre:  \n\nStretched out on the grass,\na boy and a girl.\nSavoring their oranges,\ngiving their kisses \nlike waves exchanging foam.\n\nStretched out on the beach,\na boy and a girl.\nSavoring their limes,\ngiving their kisses \nlike clouds exchanging foam.\n\nStretched out underground,\na boy and a girl.\nSaying nothing, \nnever kissing,\ngiving silence \nfor silence.",
+        "Hover element": "\"A Boy and a Girl\" was written by Octavio Paz and set for choir by Eric Whitacre:  <br><br>\n\nStretched out on the grass,<br>\na boy and a girl.<br>\nSavoring their oranges,<br>\ngiving their kisses <br>\nlike waves exchanging foam.<br><br>\n\nStretched out on the beach,<br>\na boy and a girl.<br>\nSavoring their limes,<br>\ngiving their kisses <br>\nlike clouds exchanging foam.<br><br>\n\nStretched out underground,<br>\na boy and a girl.<br>\nSaying nothing, <br>\nnever kissing,<br>\ngiving silence <br>\nfor silence.<br>",
         "id": 150
     },
     {
@@ -1820,7 +1820,7 @@ const citations = [
         "Year": "",
         "Link": "https://en.wikipedia.org/wiki/Lorem_ipsum",
         "File": "",
-        "Hover element": "\"Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally circumstances occur in which toil and pain can procure him some great pleasure.\"",
+        "Hover element": "",
         "id": 151
     }
 ]

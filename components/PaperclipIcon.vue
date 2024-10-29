@@ -13,11 +13,11 @@
 
 <style scoped>
 svg {
-  fill: #5e2447;
+  fill: #823061;
 }
 @media (prefers-color-scheme: dark) {
   svg {
-    fill: #904771;
+    fill: #d793bc;
   }
 }
 </style>
